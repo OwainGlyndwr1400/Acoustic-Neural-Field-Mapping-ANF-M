@@ -1,0 +1,7 @@
+{
+  "name": "ANF-M: Acoustic Neural Field Mapper",
+  "description": "A bridge across the temporal-spatial divide using the Recursive Harmonic Codex (RHC) to map 1D audio to 3D spatial volumes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
